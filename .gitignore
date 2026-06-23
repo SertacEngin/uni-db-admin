@@ -1,2 +1,6 @@
 .env
 *.log
+logs/
+backup/*.dump
+backup/*.sql
+backup/*.archive
